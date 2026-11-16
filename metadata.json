@@ -1,0 +1,6 @@
+{
+  "name": "4K Saúde e Benefícios — Comparativo de Planos",
+  "description": "Apresentação consultiva comparando SulAmérica (apólice atual), Amil S380 QC e Porto Saúde P320 E Copar para 48 vidas, com foco em Alphaville e Barueri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
